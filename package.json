@@ -11,6 +11,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@hookform/resolvers": "^2.9.7",
     "phosphor-react": "^1.4.1",
     "@types/styled-components": "^5.1.34",
     "react": "^18.3.1",
@@ -18,7 +19,9 @@
     "styled-components": "^6.1.13",
     "@radix-ui/react-dialog": "^1.0.0",
     "@radix-ui/react-radio-group": "^1.0.0",
-    "json-server": "^0.17.0"
+    "json-server": "^0.17.0",
+    "react-hook-form": "^7.34.0",
+    "zod": "^3.17.10"
   },
   "devDependencies": {
     "@eslint/js": "^9.11.1",
